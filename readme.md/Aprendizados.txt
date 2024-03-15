@@ -1,0 +1,14 @@
+ Pesquisa do Azure oferece uma série de recursos e funcionalidades avançadas para ajudar na descoberta, análise e utilização de dados de forma eficiente e eficaz.
+
+
+Indexação de dados: O Azure Cognitive Search pode indexar uma ampla gama de tipos de dados, incluindo texto, imagens e documentos. Isso permite que você pesquise facilmente esses dados usando consultas simples ou avançadas.
+
+Recursos de pesquisa avançada: Ele suporta pesquisa avançada, como pesquisa por facetas, pesquisa geoespacial e pesquisa semântica, o que permite explorar e entender melhor os dados.
+
+Relevância personalizada: Você pode ajustar os algoritmos de relevância para garantir que os resultados da pesquisa sejam os mais relevantes para os usuários, utilizando recursos como a pontuação de relevância e a análise de relevância.
+
+Análise de dados: A ferramenta fornece insights sobre padrões de pesquisa e comportamento do usuário, permitindo ajustar e otimizar a experiência de pesquisa para atender às necessidades dos usuários.
+
+Integração com outras ferramentas do Azure: O Azure Cognitive Search se integra perfeitamente com outras ferramentas e serviços do Azure, como o Azure Blob Storage, o Azure SQL Database e o Azure Machine Learning, permitindo uma solução de pesquisa mais abrangente e poderosa.
+
+Segurança e conformidade: Ele oferece recursos avançados de segurança e conformidade, incluindo controle de acesso baseado em função, criptografia de dados e conformidade com padrões regulatórios, garantindo a proteção dos dados e a conformidade com requisitos regulatórios.
